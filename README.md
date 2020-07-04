@@ -1,4 +1,6 @@
 # Tic Tac Toe
+#### (Made with basic python code with random module for if you choose 2nd player as computer)
+
 Want to spend some time with computer or other people by playing "Tic Tac Toe"?
 
 Run the code and type your name then if you want to play with computer or want to play with other people then you can.
